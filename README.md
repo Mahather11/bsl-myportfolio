@@ -80,3 +80,14 @@ Open a browser and go to:
 ```
 http://localhost:8000
 ```
+
+## Execution Verification :
+**Terminal Screenshot:**
+<img width="1117" height="483" alt="image" src="https://github.com/user-attachments/assets/0503ac04-a08c-4649-81f3-da5c6bed31d7" />
+<img width="1169" height="445" alt="image" src="https://github.com/user-attachments/assets/df46575e-f8cc-4fa7-be91-f27566c47f40" />
+
+**Browser Screenshot:**
+<img width="1916" height="1014" alt="image" src="https://github.com/user-attachments/assets/1d594405-87b7-4a46-acab-4fd35f2dd279" />
+
+
+
